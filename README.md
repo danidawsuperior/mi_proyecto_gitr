@@ -5,4 +5,4 @@ Creado por *Dani*
 ---
 
 - index.html: Página principal.
-MODIFICADO POR MASTER
+MODIFICADO POR DESARROLLO Y POR MASTER
